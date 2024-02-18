@@ -1,0 +1,16 @@
+app:
+  name: email-api
+  port: 8080
+
+mail-sender:
+  from: 
+  smtp: smtp.gmail.com
+  port: 587
+  password: 
+  insecure-skip-verify: true
+  
+minio:
+  baseUrl: localhost:9000
+  id: minioadmin
+  secret: minioadmin
+  token: 

@@ -1,0 +1,7 @@
+storage/*
+coverage.*
+
+.gitignore
+README.md
+
+docker-compose.minio.yaml
